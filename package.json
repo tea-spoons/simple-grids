@@ -1,0 +1,18 @@
+{
+  "name": "com.tea-spoons.simple-grids",
+  "version": "0.5.2",
+  "displayName": "Simple Grids",
+  "description": "Lightweight general-purpose 2D grids in 3D space.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.tea-spoons.package-core": "1.4.0"
+  },
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/tea-spoons/simple-grids#readme",
+  "licensesUrl": "https://github.com/tea-spoons/simple-grids/blob/main/LICENSE.md"
+}

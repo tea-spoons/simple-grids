@@ -1,0 +1,16 @@
+{
+    "name": "TeaSpoons.SimpleGrids",
+    "rootNamespace": "TeaSpoons.SimpleGrids",
+    "references": [
+        "GUID:8da508d980990b740ae19fbce055a6b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
