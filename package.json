@@ -1,6 +1,6 @@
 {
   "name": "com.tea-spoons.simple-grids",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "displayName": "Simple Grids",
   "description": "Lightweight general-purpose 2D grids in 3D space.",
   "unity": "2022.3",
